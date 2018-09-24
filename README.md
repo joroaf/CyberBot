@@ -1,0 +1,2 @@
+# CyberBot
+Norse websocket client
